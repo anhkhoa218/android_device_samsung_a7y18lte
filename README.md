@@ -1,0 +1,1 @@
+# android_device_samsung_a7y18lte
